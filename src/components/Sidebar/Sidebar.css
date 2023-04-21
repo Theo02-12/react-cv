@@ -1,0 +1,48 @@
+.sidebar ul{
+    display: none;
+    list-style-type:none ;
+}
+.open ul {
+    display: block;
+    
+}
+
+.open ul li,
+.sidebar ul li{
+    padding: 5px 15px;
+    list-style-type:none ;
+}
+.open ul li a,
+.sidebar ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.sidebar{
+    position: relative;
+    
+}
+
+.responsive-btn-navbar{
+    display: none;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: none;
+    background:none;
+    font-size: 20px;
+    color: #fff;
+}
+@media (max-width: 750px) {
+    .responsive-btn-navbar{
+        display: block;
+    }
+}
+@media (min-width: 750px) {
+    .sidebar ul {
+        display: flex;
+    }
+    .sidebar{
+        padding-top: 5px;
+    }
+}

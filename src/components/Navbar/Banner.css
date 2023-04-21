@@ -4,5 +4,28 @@
     margin: 0;
 }
 .first-content-react{
-    padding: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px;
+    height: 20vh; 
+}
+.nav-bar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.nav-bar ul{
+    display: flex;
+    width: 50%;
+}
+.logo{
+    object-fit: cover;
+}
+
+
+@media (min-width: 750px) {
+    .first-content-react{
+        justify-content: space-evenly;
+    }
 }
