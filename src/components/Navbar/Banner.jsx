@@ -5,7 +5,7 @@ import './Banner.css'
 const Banner = () => {
     return (
         <div className='first-content-react'>
-            <h1>Hello</h1>
+            <h1>Théo Couvelard</h1>
         </div>
     )
 };
