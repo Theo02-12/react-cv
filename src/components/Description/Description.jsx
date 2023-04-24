@@ -20,7 +20,7 @@ const Description = () => {
                 <About />
             </div>
             <div className="div-button">
-                <button>Contactez-moi !</button>
+                <button>me contacter</button>
                 <button>Mon CV</button>
             </div>
         </div>

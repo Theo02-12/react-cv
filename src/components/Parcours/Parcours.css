@@ -1,13 +1,12 @@
-.mes-competences{
+.mon-parcours{
     margin-top: 30px;
-    background-color: rgb(230, 229, 229);
     display: flex;
     justify-content: center;
 }
-.mes-competences .title-competences{
+.mon-parcours .title-parcours{
     text-align: center;
     padding: 30px 0;
 }
-.skill-content{
+.parcours-content{
     max-width: 85%;
 }

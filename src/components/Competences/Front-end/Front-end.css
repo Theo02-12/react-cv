@@ -1,0 +1,31 @@
+.front-skill{
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.front-skill h2{
+    margin-bottom: 10px;
+}
+.title-front{
+    color: aqua;
+}
+.title-responsive{
+    color: green;
+}
+.title-maquette{
+    color: violet;
+}
+.skill-ok{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-ok li{
+    list-style-type:none ;
+}
+.skill-ok li i {
+    color: #0a0f77;
+    padding-right: 1px;
+}

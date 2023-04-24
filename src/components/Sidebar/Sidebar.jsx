@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Sidebar.css'
+import Competences from '../Competences/Competences';
 
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(false);

@@ -8,7 +8,7 @@
 .description-moi img{
     object-fit: cover;
     max-width: 30%;
-    margin-right: 10px;
+    margin-right: 20px;
     background-color: lightgray;
     border-radius: 10px 10px 0 0;
 }

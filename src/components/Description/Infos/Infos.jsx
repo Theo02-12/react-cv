@@ -7,7 +7,7 @@ const Infos = () => {
             <p><b>Nom:</b> Théo Couvelard</p>
             <p><b>Age:</b> 20 ans</p>
             <p><b>Ville actuelle:</b> Boulogne sur Mer(62)</p>
-            <p><b>Hobbies:</b> Musculation, jeux-vidéos, amoureux de la nature</p>
+            <p><b>Hobbies:</b> Musculation, jeux-vidéos, automobile</p>
         </div>
     )
 };

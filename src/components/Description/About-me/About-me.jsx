@@ -13,7 +13,7 @@ const About = () => {
                  je profite du temps dont je dispose pour pouvoir enrichir mes connaissances et toujours apprendre des nouvelles technologies. <br />
                  <br />
 
-                 Après avoir enchaîné les petits boulots, j'ai commencé à apprendre le développement web avec HTML , CSS et JavaScript en autodidacte avec le site OpenClassrooms. J'ai directement accroché à ce domaine et je souhaite vraiment en faire mon métier donc je travaille beaucoup pour me donner les moyens de réussir.
+                 Après avoir enchaîné les petits boulots, j'ai commencé à apprendre le développement web avec HTML , CSS et JavaScript en autodidacte avec le site OpenClassrooms. J'ai directement accroché à ce domaine et je souhaite vraiment en faire mon métier. De ce fait je travaille beaucoup pour me donner les moyens de réussir.
             </p>
         </div>
     )

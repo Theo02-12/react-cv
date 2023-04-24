@@ -22,7 +22,9 @@
     position: relative;
     
 }
-
+.sidebar button{
+    cursor: pointer;
+}
 .responsive-btn-navbar{
     display: none;
     position: absolute;
