@@ -1,7 +1,7 @@
 .icons-skill{
     width: 100%;
     display: flex;
-    margin: 40px 0;
+    margin: 50px 0;
     justify-content: space-around;
     flex-wrap: wrap;
 }
@@ -16,6 +16,7 @@
     font-weight: 300;
 }
 .icons-skill span i{
-    font-size: 25px;
-    padding-bottom: 10px;
+    font-size: 30px;
+    padding-bottom: 30px;
+    cursor: pointer;
 }

@@ -1,0 +1,8 @@
+.about-me-text p{
+    margin-top: 30px;
+}
+.about-me-text{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

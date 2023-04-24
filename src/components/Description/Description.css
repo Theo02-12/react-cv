@@ -1,0 +1,48 @@
+.description-moi{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.description-moi img{
+    object-fit: cover;
+    max-width: 30%;
+    margin-right: 10px;
+    background-color: lightgray;
+    border-radius: 10px 10px 0 0;
+}
+.description-moi h3{
+    font-size: 30px;
+    padding-bottom: 14px;
+}
+.img-and-infos{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.text-about{
+    display: flex;
+    justify-content: center;
+}
+.div-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+}
+.div-button button{
+    width: 140px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.div-button button:nth-child(1){
+    background-color: #5cc3f3;
+}
+.div-button button:nth-child(2){
+    background-color: #0a0f77;
+    color: white;
+}

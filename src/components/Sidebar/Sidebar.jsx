@@ -14,8 +14,8 @@ const Sidebar = () => {
       <ul>
         <li><a href=""><i class="fa-solid fa-house"></i></a></li>
         <li><a href="">A PROPOS</a></li>
-        <li><a href="">PARCOURS</a></li>
         <li><a href="">COMPETENCES</a></li>
+        <li><a href="">PARCOURS</a></li>
         <li><a href="">CONTACT</a></li>
         
       </ul>
