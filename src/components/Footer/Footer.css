@@ -1,0 +1,28 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 10px 0;
+}
+footer ul li{
+    font-size: 40px;
+    padding: 15px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: inherit;
+}
+.linkedin{
+    color: #007bb6;
+}
+.paper{
+    color: grey;
+}
+footer h5{
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.localisation-infos{
+    background-color: #DFF7E9;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #2ECC71;
+    margin-top: 30px;
+}
+.localisation-infos i{
+    font-size: 60px;
+    margin: 10px 0;
+}
