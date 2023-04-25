@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Banner from './components/Navbar/Banner';
 import Content from './components/Content/Content'
 import Description from './components/Description/Description';
@@ -10,7 +11,8 @@ import Footer from './components/Footer/Footer';
 
 const App = () => {
     return (
-        <>
+        <> 
+            
             <div className='bg-modif'>
                 <Banner />
                 <Content />

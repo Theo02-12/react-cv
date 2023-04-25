@@ -18,15 +18,15 @@ const Back = () => {
             <div>
                 <ul>
                     <li>
-                        <i class="fa-solid fa-check"></i>
+                        <i className="fa-solid fa-check"></i>
                         
                     </li>
                     <li>
-                        <i class="fa-solid fa-check"></i>
+                        <i className="fa-solid fa-check"></i>
                         
                     </li>
                     <li>
-                        <i class="fa-solid fa-check"></i>
+                        <i className="fa-solid fa-check"></i>
                     </li>
                     
                 </ul>

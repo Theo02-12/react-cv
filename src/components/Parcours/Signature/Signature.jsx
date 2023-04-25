@@ -4,7 +4,7 @@ import './Signature.css';
 const Signature = () => {
     return(
         <div className="signature-infos web-parcours">
-            <h2><i class="fa-solid fa-wrench"></i>Ouvrier d'éxecution</h2>
+            <h2><i className="fa-solid fa-wrench"></i>Ouvrier d'éxecution</h2>
             <p>avril 2022 / juin 2022</p>
             <p>Signature - Isques</p>
 

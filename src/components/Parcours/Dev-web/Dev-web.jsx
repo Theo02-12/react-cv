@@ -4,7 +4,7 @@ import './Dev-web.css';
 const Dev = () => {
     return(
         <div className="dev-web-infos web-parcours">
-            <h2><i class="fa-solid fa-laptop"></i>Formation développeur web & web mobile</h2>
+            <h2><i className="fa-solid fa-laptop"></i>Formation développeur web & web mobile</h2>
             <p>Avril 2023 / En cours</p>
             <p>Simplon Boulogne sur Mer</p>
 

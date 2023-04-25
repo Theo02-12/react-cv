@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Sidebar.css'
-import Competences from '../Competences/Competences';
+
 
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,9 +11,9 @@ const Sidebar = () => {
 
   return (
     <div className={isOpen ? 'sidebar open' : 'sidebar'}>
-      <button onClick={toggleSidebar} className='responsive-btn-navbar'><i class="fa-solid fa-bars"></i></button>
+      <button onClick={toggleSidebar} className='responsive-btn-navbar'><i className="fa-solid fa-bars"></i></button>
       <ul>
-        <li><a href=""><i class="fa-solid fa-house"></i></a></li>
+        <li><a href=""><i className="fa-solid fa-house"></i></a></li>
         <li><a href="">A PROPOS</a></li>
         <li><a href="">COMPETENCES</a></li>
         <li><a href="">PARCOURS</a></li>

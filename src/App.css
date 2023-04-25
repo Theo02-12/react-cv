@@ -1,4 +1,6 @@
 .bg-modif{
     background: rgb(0,0,4);
-    background: linear-gradient(90deg, rgba(0,0,4,1) 0%, rgba(9,9,121,1) 35%, rgba(3,81,97,1) 100%);
+    background: linear-gradient(90deg, rgba(0,0,4,1) 0%,
+     rgba(9,9,121,1) 35%, 
+     rgba(3,81,97,1) 100%);
 }
